@@ -1,0 +1,17 @@
+{
+  "name": "Hugo Font Awesome Icons Module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razonyang/hugo-mod-icons-font-awesome.git"
+  },
+  "author": "Razon Yang <razonyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razonyang/hbs-mod-icons-font-awesome/issues"
+  },
+  "homepage": "https://github.com/razonyang/hbs-mod-icons-font-awesome#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-go-template": "^0.0.13"
+  }
+}
